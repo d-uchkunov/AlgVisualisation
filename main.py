@@ -96,20 +96,20 @@ class App(tk.Tk, ):
         self.big_img = (ImageTk.PhotoImage(self.img.resize((240, 90))))
         self.small_img = (ImageTk.PhotoImage(self.img.resize((200, 90))))
 
-        self.sorting_lbl = tk.Label(text='Sorting', compound='center', width=235, height=110, background="#707CC0", font=('Inter Black', 25), image=self.big_img, foreground='white')
+        self.sorting_lbl = tk.Label(text='Sorting', compound='center', width=235, height=120, background="#707CC0", font=('Inter Black', 25), image=self.big_img, foreground='white')
         self.sorting_lbl.place(x=10, y=0)
 
-        self.bb_sort = tk.Button(text='Bubble Sort', compound='center', width=200, height=80, background="#707CC0", command=lambda: Algorithms.Sorting.bubble_sort(self), borderwidth=0, overrelief='flat', font=('Inter Black', 17), image=self.small_img, foreground='white', activebackground='#707CC0')
-        self.bb_sort.place(x=10, y=107)
+        self.bb_sort = tk.Button(text='Bubble Sort', compound='center', width=200, height=90, background="#707CC0", command=lambda: Algorithms.Sorting.bubble_sort(self), borderwidth=0, overrelief='flat', font=('Inter Black', 17), image=self.small_img, foreground='white', activebackground='#707CC0')
+        self.bb_sort.place(x=10, y=110)
 
-        self.sel_sort = tk.Button(text='Selection Sort', compound='center', width=200, height=80, background="#707CC0", command=lambda: Algorithms.Sorting.selection_sort(self), borderwidth=0, relief='flat', font=('Inter Black', 17), image=self.small_img, foreground='white', activebackground='#707CC0')
-        self.sel_sort.place(x=10, y=197)
+        self.sel_sort = tk.Button(text='Selection Sort', compound='center', width=200, height=90, background="#707CC0", command=lambda: Algorithms.Sorting.selection_sort(self), borderwidth=0, relief='flat', font=('Inter Black', 17), image=self.small_img, foreground='white', activebackground='#707CC0')
+        self.sel_sort.place(x=10, y=205)
 
         self.search_lbl = tk.Label(text='Search', compound='center', width=235, height=100, background="#707CC0", font=('Inter Black', 25), image=self.big_img, foreground='white')
-        self.search_lbl.place(x=10, y=282)
+        self.search_lbl.place(x=10, y=299)
 
-        self.binary_search = tk.Button(text='Binary Search', compound='center', width=200, height=80, background="#707CC0", command=lambda: Algorithms.Search.binary_search(self), borderwidth=0, relief='flat', font=('Inter Black', 17), image=self.small_img, foreground='white', activebackground='#707CC0')
-        self.binary_search.place(x=10, y=385)
+        self.binary_search = tk.Button(text='Binary Search', compound='center', width=200, height=90, background="#707CC0", command=lambda: Algorithms.Search.binary_search(self), borderwidth=0, relief='flat', font=('Inter Black', 17), image=self.small_img, foreground='white', activebackground='#707CC0')
+        self.binary_search.place(x=10, y=400)
 
         self.title = tk.Label(self, text='', background='#47505f', font=('Inter Black', 30), foreground='white')
         self.title.place(x=620, y=30)
