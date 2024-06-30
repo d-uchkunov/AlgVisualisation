@@ -30,3 +30,14 @@
 
 Вярвам, че този проект може да допринесе за подобряване на изучаването на програмиране, като го направи по-лесно, по-атрактивно и по-ефективно.
 
+
+https://github.com/d-uchkunov/AlgoInsight/assets/74669862/758ae28d-ab13-42d3-8855-0f3e0ada5d4a
+
+https://github.com/d-uchkunov/AlgoInsight/assets/74669862/d3f33131-ecb2-4406-8b08-f5ee650c93bd
+
+https://github.com/d-uchkunov/AlgoInsight/assets/74669862/ddaefc55-f284-400d-a149-7487f820f405
+
+
+
+
+
