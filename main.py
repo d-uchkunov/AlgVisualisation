@@ -3,7 +3,7 @@ import tkinter as tk
 import ctypes as ct
 from PIL import Image, ImageTk
 
-order = [9, 5, 3, 2, 6, 1]
+order = [9, 5, 8, 2, 6, 1]
 array = deepcopy(order)
 
 # graph = {
@@ -76,7 +76,7 @@ class App(tk.Tk, ):
     def __init__(self):
         super().__init__()
 
-        self.title("Визуализация на алгоритми")
+        self.title("AlgoInsight")
         # self.center_window(980, 680)
         self.dark_title_bar()
         self.configure(bg="#47505f")
@@ -84,7 +84,7 @@ class App(tk.Tk, ):
 
         self.canvas = tk.Canvas(width=1030, height=1195, background="#47505f", highlightbackground='#47505f')
         self.canvas.place(x=250, y=50, anchor=tk.W)
-        self.canvas.create_text(515, 850, text="Визуализация на алгоритми", font=('Inter Black', 30), fill='white', anchor=tk.CENTER)
+        self.canvas.create_text(515, 850, text="                        AlgoInsight\n{Визуализация на алгоритми}", font=('Inter Black', 30), fill='white', anchor=tk.CENTER)
 
         self.button = None
 
@@ -96,7 +96,7 @@ class App(tk.Tk, ):
         self.big_img = (ImageTk.PhotoImage(self.img.resize((240, 90))))
         self.small_img = (ImageTk.PhotoImage(self.img.resize((200, 90))))
 
-        self.sorting_lbl = tk.Label(text='Sorting', compound='center', width=235, height=120, background="#707CC0", font=('Inter Black', 25), image=self.big_img, foreground='white')
+        self.sorting_lbl = tk.Label(text='{Sorting}', compound='center', width=235, height=120, background="#707CC0", font=('Inter Black', 25), image=self.big_img, foreground='white')
         self.sorting_lbl.place(x=10, y=0)
 
         self.bb_sort = tk.Button(text='Bubble Sort', compound='center', width=200, height=90, background="#707CC0", command=lambda: Algorithms.Sorting.bubble_sort(self), borderwidth=0, overrelief='flat', font=('Inter Black', 17), image=self.small_img, foreground='white', activebackground='#707CC0')
@@ -105,7 +105,7 @@ class App(tk.Tk, ):
         self.sel_sort = tk.Button(text='Selection Sort', compound='center', width=200, height=90, background="#707CC0", command=lambda: Algorithms.Sorting.selection_sort(self), borderwidth=0, relief='flat', font=('Inter Black', 17), image=self.small_img, foreground='white', activebackground='#707CC0')
         self.sel_sort.place(x=10, y=205)
 
-        self.search_lbl = tk.Label(text='Search', compound='center', width=235, height=100, background="#707CC0", font=('Inter Black', 25), image=self.big_img, foreground='white')
+        self.search_lbl = tk.Label(text='{Search}', compound='center', width=235, height=100, background="#707CC0", font=('Inter Black', 25), image=self.big_img, foreground='white')
         self.search_lbl.place(x=10, y=299)
 
         self.binary_search = tk.Button(text='Binary Search', compound='center', width=200, height=90, background="#707CC0", command=lambda: Algorithms.Search.binary_search(self), borderwidth=0, relief='flat', font=('Inter Black', 17), image=self.small_img, foreground='white', activebackground='#707CC0')
@@ -326,7 +326,9 @@ class Algorithms:
 
     class Search(App):
         def binary_search(self, x=5, low=0, high=len(order)-1):
-            target = deepcopy(order)
+            global order
+            target = [9, 5, 3, 2, 6, 1]
+            order = target
             Algorithms.Sorting.selection_sort(self, 0.0, False)
             self.title['text'] = 'Binary Search'
             self.info['text'] = 'Binary Search е алгоритъм за намиране на позицията на даден елемент в сортиран масив чрез намаляване на претърсваното пространство на половина.'
