@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6ef46ae-3d83-4efc-a768-7049ba71a209" name="Changes" comment="first">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngb/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngb.old/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngb/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngb.old/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngb/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngb.old/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngb/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngb.old/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngb/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngb.old/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngb/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngb.old/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngb/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngb.old/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngb/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngb.old/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngb/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngb.old/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngg/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngg.old/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngg/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngg.old/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngg/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngg.old/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngg/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngg.old/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngg/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngg.old/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngg/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngg.old/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngg/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngg.old/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngg/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngg.old/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngg/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngg.old/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngr/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngr.old/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngr/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngr.old/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngr/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngr.old/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngr/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngr.old/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngr/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngr.old/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngr/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngr.old/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngr/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngr.old/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngr/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngr.old/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngr/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngr.old/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngy/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngy.old/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngy/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngy.old/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngy/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngy.old/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngy/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngy.old/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngy/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngy.old/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngy/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngy.old/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngy/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngy.old/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngy/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngy.old/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngy/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/.old/pngy.old/9.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2hsya9TaznilkgVMsZz3C17J5DV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/danie/PycharmProjects/instagram",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\danie\PycharmProjects\AlgorithmVisualiser" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\danie\PycharmProjects\AlgorithmVisualiser\.old" />
+      <recent name="C:\Users\danie\PycharmProjects\AlgorithmVisualiser" />
+      <recent name="C:\Users\danie\PycharmProjects\AlgorithmVisualiser\svgs" />
+      <recent name="C:\Users\danie\PycharmProjects\AlgorithmVisualiser\pngs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmVisualiser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\danie\PycharmProjects\AlgorithmVisualiser\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.old" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmVisualiser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\danie\PycharmProjects\AlgorithmVisualiser\main.old.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main.old" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6ef46ae-3d83-4efc-a768-7049ba71a209" name="Changes" comment="" />
+      <created>1718397139610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718397139610</updated>
+      <workItem from="1718397147856" duration="15966000" />
+      <workItem from="1718474673127" duration="31000" />
+      <workItem from="1718641081252" duration="14391000" />
+      <workItem from="1718735761917" duration="64568000" />
+      <workItem from="1719360362713" duration="389000" />
+      <workItem from="1719360769729" duration="444000" />
+      <workItem from="1719361232176" duration="4710000" />
+      <workItem from="1719434767164" duration="23000" />
+      <workItem from="1719607294810" duration="1495000" />
+      <workItem from="1719609125792" duration="1607000" />
+      <workItem from="1719671407003" duration="11215000" />
+      <workItem from="1719683677028" duration="908000" />
+      <workItem from="1719684601801" duration="3436000" />
+      <workItem from="1719694381338" duration="7752000" />
+      <workItem from="1719702197735" duration="5136000" />
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1719366045624</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719366045624</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AlgorithmVisualiser$helper1.coverage" NAME="helper1 Coverage Results" MODIFIED="1718654290436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgorithmVisualiser$test.coverage" NAME="test Coverage Results" MODIFIED="1719703373477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgorithmVisualiser$main1.coverage" NAME="main1 Coverage Results" MODIFIED="1718654293986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgorithmVisualiser$fonts.coverage" NAME="fonts Coverage Results" MODIFIED="1719695016338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgorithmVisualiser$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1718655327297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python311/Lib/tkinter" />
+    <SUITE FILE_PATH="coverage/AlgorithmVisualiser$make_boxes.coverage" NAME="make-boxes Coverage Results" MODIFIED="1719697877673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgorithmVisualiser$pygameMain.coverage" NAME="pygameMain Coverage Results" MODIFIED="1718473678804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgorithmVisualiser$main.coverage" NAME="main Coverage Results" MODIFIED="1719707038747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgorithmVisualiser$helper.coverage" NAME="helper Coverage Results" MODIFIED="1718737837353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgorithmVisualiser$demo.coverage" NAME="demo Coverage Results" MODIFIED="1718399020294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
